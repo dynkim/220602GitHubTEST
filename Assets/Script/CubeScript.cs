@@ -2,8 +2,8 @@ using UnityEngine;
 
 public class CubeScript : MonoBehaviour
 {
-    public float moveSpeed = 10.0f;
-    public float turnSpeed = 80.0f;
+    public float moveSpeed = 30.0f;
+    public float turnSpeed = 100.0f;
     
     private float h;
     private float v;
